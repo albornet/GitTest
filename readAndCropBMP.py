@@ -10,6 +10,7 @@
 # change 1 in made in branch "feature1"
 # je suis feature1 et je fais un changement ...
 # je suis un master et je fais un changement lol
+# changement par un 2e gars
 
 # Imports:
 from PIL import Image
