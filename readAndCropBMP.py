@@ -7,10 +7,7 @@
 # onlyZerosAndOnes --> 0 if you want aliasing, 1 if you want no aliasing, 2 if you want (aliased+notaliased)/2
 # addCropx,y --> integer defined to crop the stimulus array even more to make it smaller, for computational purposes
     # e.g. : addCropx = 50 will remove the 50 far-left columns and 50 far-right columns
-# change 1 in made in branch "feature1"
-# je suis feature1 et je fais un changement ...
-# je suis un master et je fais un changement lol
-# changement par un 2e gars
+# premier changement : enlevé tous les autres commentaires vaseux
 
 # Imports:
 from PIL import Image
